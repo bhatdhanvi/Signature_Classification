@@ -1,6 +1,6 @@
 # Signature_Classification
 Developed an advanced predictive model that effectively categorizes signatures into their corresponding human classes, showcasing expertise in precise classification methodologies.
-Transfer learning is applied by leveraging pre-trained convolutional neural networks (CNNs) such as Xception and VGG16. These models were compared to assess their performance in signature classification. Xception emerged as the top-performing architecture, achieving an outstanding accuracy of 97%.
+Transfer learning is applied by leveraging pre-trained convolutional neural networks (CNNs) such as Xception and VGG16. These models were compared to assess their performance in signature classification. Xception emerged as the top-performing architecture, achieving an outstanding accuracy of 99%.
 
 #Dataset
 
